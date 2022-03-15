@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - ClickArea
+  - DeathZone
   layers:
   - Default
   - TransparentFX
